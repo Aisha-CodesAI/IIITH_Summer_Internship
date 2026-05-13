@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1mUDheiTn7wG2cQrHk0DHSMPWbo4SFZrG/view?usp=drive
   # Week 2 — Object Detection
 
 ---
-
+video link:https://youtu.be/tFZWNHJPAqI?si=LYszypLowDCXm6vD
 ## Tasks 1, 2, 3
 
 - Created Python virtual environment using venv
@@ -54,6 +54,8 @@ https://drive.google.com/file/d/1mUDheiTn7wG2cQrHk0DHSMPWbo4SFZrG/view?usp=drive
 
 - Object Detection
   https://drive.google.com/file/d/10PeLHC0yEGYbgQJ6Qdb3gzbrpIshO8Ih/view?usp=drivesdk
+  https://drive.google.com/file/d/1gDFjwzu0RnY0UuAsazBcVkaWfjLr78zl/view?usp=drivesdk
+
 
   # Week 3 — Segmentation
 
