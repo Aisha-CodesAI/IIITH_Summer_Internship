@@ -1,0 +1,16 @@
+## Classes
+- Bus
+- Car
+- Truck
+
+## Tasks Completed
+1. Selected a real-world traffic video.
+2. Extracted frames using FFmpeg.
+3. Split frames into train and validation datasets.
+4. Annotated images using Label Studio.
+5. Exported annotations in YOLO format.
+6. Organized dataset into images and labels folders.
+7. Generated data.yaml configuration file.
+8. Resized images for optimized training.
+9. Trained YOLOv8n model on custom dataset.
+10. Generated prediction outputs and evaluation metrics.
