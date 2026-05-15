@@ -186,10 +186,10 @@ Classes:
 
 | Metric | Value |
 |---|---|
-| Precision | 0.91 |
-| Recall | 0.67 |
-| mAP@50 | 0.82 |
-| mAP@50:95 | 0.58 |
+| Precision | 0.20 |
+| Recall | 0.25 |
+| mAP@50 | 0.084 |
+| mAP@50:95 | 0.09 |
 | Epochs | 10 |
 | Training Time | 0.28 hours |
 
@@ -220,3 +220,34 @@ Classes:
 - YOLOv8n (Ultralytics) — object detection training
 
 - Python 3.11 — scripting
+
+  # Week 5 Tasks
+
+  1. Selected a real-world traffic video containing buses, cars, and trucks.
+2. Extracted frames from the video using FFmpeg.
+3. Split frames into train and validation datasets.
+4. Annotated Bus, Car, and Truck classes using Label Studio.
+5. Exported annotations in YOLO format.
+6. Organized YOLO dataset structure with images and labels folders.
+7. Generated `data.yaml` file for model training.
+8. Resized dataset images for optimized YOLOv8 training.
+9. Trained YOLOv8n object detection model using the custom dataset.
+10. Generated prediction outputs on validation/test images using trained weights.
+11. Evaluated model performance using Precision, Recall, mAP, and F1-score metrics.
+
+# Classes
+
+Bus
+Car
+Truck
+
+# Generated Outputs
+
+- Trained weights (best.pt, last.pt)
+- Prediction result images
+- Confusion Matrix
+- Precision-Recall Curve
+- Precision-Confidence Curve
+- Recall-Confidence Curve
+- F1-Confidence Curve
+- Label distribution visualizations
