@@ -223,7 +223,7 @@ Classes:
 
   # Week 5 Tasks
 
-  1. Selected a real-world traffic video containing buses, cars, and trucks.
+1. Selected a real-world traffic video containing buses, cars, and trucks.
 2. Extracted frames from the video using FFmpeg.
 3. Split frames into train and validation datasets.
 4. Annotated Bus, Car, and Truck classes using Label Studio.
